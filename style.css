@@ -17,3 +17,8 @@
 .sub {
     background-color: tomato;
 }
+
+.image {
+    width: 300px;
+    height: auto;
+}
