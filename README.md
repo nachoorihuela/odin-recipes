@@ -1,0 +1,1 @@
+The purpose of this project is to test the HTML knowledge acquired so far. It consists of a main index page with links to several recipes. Each of this recipes has the dish name and image, ingredients and finally directions to prepare.
