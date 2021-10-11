@@ -1,0 +1,19 @@
+* {
+    font-family: sans-serif;
+}
+
+#main {
+    background-color: teal;
+    color: rgb(10, 10, 10);
+    text-align: center;
+}
+
+.links {
+    color: white;
+    font-size: 26px;
+    text-align: left;
+}
+
+.sub {
+    background-color: tomato;
+}
